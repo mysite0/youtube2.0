@@ -27,6 +27,7 @@
 }
 .search-button:hover {
     background-color: rgb(224, 224, 224);
+    border-color: black;
 }
 .youtube-vid {
     margin-left: 30px;
